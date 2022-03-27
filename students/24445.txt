@@ -1,1 +1,6 @@
+<<<<<<< HEAD
 Danes pa dežuje nedelja
+=======
+Danes pa dežuj
+27.3.2022 12:39
+>>>>>>> experimental
